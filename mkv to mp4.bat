@@ -1,0 +1,1 @@
+ffmpeg.exe -i %1 -c copy %~n1_mp4ified.mp4
